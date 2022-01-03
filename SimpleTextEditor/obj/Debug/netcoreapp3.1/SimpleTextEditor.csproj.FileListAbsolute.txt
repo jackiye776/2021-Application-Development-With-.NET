@@ -1,0 +1,36 @@
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass2\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.exe
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass2\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.deps.json
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass2\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.runtimeconfig.json
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass2\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.runtimeconfig.dev.json
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass2\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.dll
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass2\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.pdb
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.csproj.AssemblyReference.cache
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.csproj.GenerateResource.cache
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.AssemblyInfo.cs
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.dll
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.pdb
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.genruntimeconfig.cache
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.LoginScreen.resources
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.NewUserScreen.resources
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.TextEditorScreen.resources
+C:\Users\Jackie Lim\Desktop\Science in IT\Ass2\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.exe
+C:\Users\Jackie Lim\Desktop\Science in IT\Ass2\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.deps.json
+C:\Users\Jackie Lim\Desktop\Science in IT\Ass2\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.runtimeconfig.json
+C:\Users\Jackie Lim\Desktop\Science in IT\Ass2\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.runtimeconfig.dev.json
+C:\Users\Jackie Lim\Desktop\Science in IT\Ass2\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.dll
+C:\Users\Jackie Lim\Desktop\Science in IT\Ass2\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.pdb
+C:\Users\Jackie Lim\Desktop\Science in IT\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.LoginScreen.resources
+C:\Users\Jackie Lim\Desktop\Science in IT\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.NewUserScreen.resources
+C:\Users\Jackie Lim\Desktop\Science in IT\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.TextEditorScreen.resources
+C:\Users\Jackie Lim\Desktop\Science in IT\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.csproj.GenerateResource.cache
+C:\Users\Jackie Lim\Desktop\Science in IT\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\Jackie Lim\Desktop\Science in IT\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.AssemblyInfo.cs
+C:\Users\Jackie Lim\Desktop\Science in IT\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Jackie Lim\Desktop\Science in IT\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.dll
+C:\Users\Jackie Lim\Desktop\Science in IT\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.pdb
+C:\Users\Jackie Lim\Desktop\Science in IT\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.genruntimeconfig.cache
+C:\Users\Jackie Lim\Desktop\Science in IT\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.csproj.AssemblyReference.cache
+C:\Users\Jackie Lim\Desktop\Science in IT\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.Properties.Resources.resources
+C:\Users\Jackie Lim\Desktop\Science in IT\Ass2\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.AboutScreen.resources

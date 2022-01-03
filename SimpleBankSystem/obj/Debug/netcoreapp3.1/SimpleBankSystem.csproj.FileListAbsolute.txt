@@ -1,0 +1,13 @@
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass1\SimpleBankSystem\bin\Debug\netcoreapp3.1\SimpleBankSystem.exe
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass1\SimpleBankSystem\bin\Debug\netcoreapp3.1\SimpleBankSystem.deps.json
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass1\SimpleBankSystem\bin\Debug\netcoreapp3.1\SimpleBankSystem.runtimeconfig.json
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass1\SimpleBankSystem\bin\Debug\netcoreapp3.1\SimpleBankSystem.runtimeconfig.dev.json
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass1\SimpleBankSystem\bin\Debug\netcoreapp3.1\SimpleBankSystem.dll
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass1\SimpleBankSystem\bin\Debug\netcoreapp3.1\SimpleBankSystem.pdb
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass1\SimpleBankSystem\obj\Debug\netcoreapp3.1\SimpleBankSystem.csproj.AssemblyReference.cache
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass1\SimpleBankSystem\obj\Debug\netcoreapp3.1\SimpleBankSystem.AssemblyInfoInputs.cache
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass1\SimpleBankSystem\obj\Debug\netcoreapp3.1\SimpleBankSystem.AssemblyInfo.cs
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass1\SimpleBankSystem\obj\Debug\netcoreapp3.1\SimpleBankSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass1\SimpleBankSystem\obj\Debug\netcoreapp3.1\SimpleBankSystem.dll
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass1\SimpleBankSystem\obj\Debug\netcoreapp3.1\SimpleBankSystem.pdb
+C:\Users\Jackie Lim\Desktop\Science in IT\2021\Semester 2 - Spring\31927 App Dev with .NET\Ass1\SimpleBankSystem\obj\Debug\netcoreapp3.1\SimpleBankSystem.genruntimeconfig.cache
